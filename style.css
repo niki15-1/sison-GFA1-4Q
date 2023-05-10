@@ -1,0 +1,42 @@
+.header{
+    background-color: #094d92;
+    overflow: hidden;
+    padding: 10px;
+    color: #e0fbfc;
+}
+.body{
+    background-color: #e0fbfc;
+    color: #094d92;
+    padding: 20px;
+}
+.sign-up{
+    background-color: #094d92;
+    margin: 0px;
+    padding: 10px;
+    color: #e0fbfc;
+}
+p{
+    margin-left: 20px;
+}
+h1{
+    margin-left: 20px;
+}
+.forms{
+    margin: 20px;
+}
+#gndrlabel{
+    margin-right: 86px;
+}
+#gender{
+    width: 147px;
+    height: 22px;
+}
+#frstlabel{
+    margin-right: 32px;
+}
+#lastlabel{
+    margin-right: 35px;
+}
+#emaillabel{
+    margin-right: 12px;
+}
